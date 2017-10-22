@@ -6,6 +6,7 @@ Gem::Specification.new do |s|
   s.description = 'A gem to spin up vms in various cloud environments'
   s.authors     = ['Katy Exline']
   s.files       = ['lib/tinkr.rb']
+  s.executables = ['tinkr']
   s.homepage    = 'https://github.com/kexline4710/tinkr'
   s.licenses    = ['MIT']
 end
