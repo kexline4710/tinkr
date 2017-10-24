@@ -1,5 +1,5 @@
 class Tinkr
   def self.test
-    puts "Hello Wrld!"
+    "Hello Wrld!"
   end
 end
