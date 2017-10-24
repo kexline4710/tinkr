@@ -9,4 +9,6 @@ Gem::Specification.new do |s|
   s.executables = ['tinkr']
   s.homepage    = 'https://github.com/kexline4710/tinkr'
   s.licenses    = ['MIT']
+
+  s.add_development_dependency "minitest", [">= 5.10.3"]
 end
